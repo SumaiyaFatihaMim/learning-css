@@ -1,0 +1,48 @@
+h1{
+
+    background-color: red;
+    border: 2px solid black;
+}
+.exp{
+    color: blue;
+    display: inline;
+    font-size: 20px ;
+    
+}
+span{
+    color: brown;
+    font-size: 40px;
+}
+.container{
+    border: 5px solid blueviolet;
+    position: relative;
+    height: 6000px;
+}
+img{
+    border: 2px solid red ;
+    height:200px;
+}
+.img1{
+    position: relative;
+    top:200px;
+    left:30px;
+
+}
+.img2{
+ position: absolute;
+ right: 0;
+ bottom:0;    
+}
+.img3{
+    position: sticky;
+    top:100px;
+
+}
+.img4{
+    position:fixed;
+    top:400px;
+}
+.new{
+    background-color: blue;
+    height: 4000px;
+}
